@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 32.369%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 19.655%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 14.745%;" class="progress-item"></span><span style="background-color: #b07219;width: 13.894%;" class="progress-item"></span><span style="background-color: #3178c6;width: 7.613%;" class="progress-item"></span><span style="background-color: #563d7c;width: 5.091%;" class="progress-item"></span><span style="background-color: #3572A5;width: 3.283%;" class="progress-item"></span><span style="background-color: #e34c26;width: 1.801%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 1.495%;" class="progress-item"></span><span style="background-color: #000080;width: 0.055%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 32.402%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 19.645%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 14.738%;" class="progress-item"></span><span style="background-color: #b07219;width: 13.887%;" class="progress-item"></span><span style="background-color: #3178c6;width: 7.609%;" class="progress-item"></span><span style="background-color: #563d7c;width: 5.089%;" class="progress-item"></span><span style="background-color: #3572A5;width: 3.281%;" class="progress-item"></span><span style="background-color: #e34c26;width: 1.800%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 1.494%;" class="progress-item"></span><span style="background-color: #000080;width: 0.055%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -116,7 +116,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">JavaScript</span>
-<span class="percent">32.37%</span>
+<span class="percent">32.40%</span>
 </li>
 
 
